@@ -37,4 +37,4 @@
 </ul>
 <br>
 <h3>Contributing</h3>
-<p>Contributions, bug reports, and feature requests are welcome. Please read our contributing guidelines for details on our code of conduct, and the process for submitting pull requests.</p>
+<p>Contributions, bug reports, and feature requests are welcome, just email me at dcouch01@manhattan.edu.</p>
