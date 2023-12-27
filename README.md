@@ -7,4 +7,7 @@
 <h3>Repository Contents:</h3>
 <ul>
   <li><b>index.html:</b> The main HTML file containing the structure of the game interface.</li>
+  <li><b>styles.css:</b> The CSS file that styles the game's visual elements.</li>
+  <li><b>index.js:</b> The JavaScript file powering the game's interactivity and logic.</li>
+  <li><b>sounds:</b> A directory containing audio files for each color button.</li>
 </ul>
