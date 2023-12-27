@@ -6,5 +6,5 @@
 <br>
 <h3>Repository Contents:</h3>
 <ul>
-  <li><em>index.html:</em> The main HTML file containing the structure of the game interface.</li>
+  <li><b>index.html:</b> The main HTML file containing the structure of the game interface.</li>
 </ul>
