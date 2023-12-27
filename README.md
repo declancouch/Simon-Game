@@ -3,3 +3,8 @@
 <h3>Introduction:</h3>
 <br>
 <p>This GitHub repository presents the Simon Game, an interactive memory challenge designed to test and improve your reflexes and memory skills. The game is built using HTML, CSS, and JavaScript, and incorporates vibrant visuals and engaging audio effects to create an immersive gameplay experience.</p>
+<br>
+<h3>Repository Contents:</h3>
+<ul>
+  <li><em>index.html:</em> The main HTML file containing the structure of the game interface.</li>
+</ul>
