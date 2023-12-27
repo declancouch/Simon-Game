@@ -39,4 +39,4 @@
 <h3>Contributing</h3>
 <p>Contributions, bug reports, and feature requests are welcome, just email me at dcouch01@manhattan.edu.</p>
 <br>
-<h4><a href = "https://declancouch.github.io/Simon-Game/">Feel free to play the game by clicking here</a></h4>
+<a> color = "blue" href = "https://declancouch.github.io/Simon-Game/"><h4>Feel free to play the game by clicking here</h4></a>
