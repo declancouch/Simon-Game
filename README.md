@@ -39,4 +39,4 @@
 <h3>Contributing</h3>
 <p>Contributions, bug reports, and feature requests are welcome, just email me at dcouch01@manhattan.edu.</p>
 <br>
-[Download this code onto your Arduino compiler system](https://github.com/declancouch/Automated-Soap-Dispenser-And-Counter/blob/34ed45a4a5e10d7ac9d816b988eacd39e0801649/Arduino%20Completed%20Soap%20Dispensor%20Code.ino)
+<a href = "https://declancouch.github.io/Simon-Game/"><h4>Feel free to play the game by clicking here</h4></a>
